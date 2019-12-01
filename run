@@ -1,0 +1,2 @@
+#!/bin/bash
+docker run --cpus="2" --memory="3g" -p 8080:8080 scalatra-app
